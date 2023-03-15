@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M7mad88
 - 👀 I’m interested in reading books, going to gym and playing football
-- 🌱 I’m currently learning ML with Epsilon
+- 🌱 I’m currently having internship in Flip Robo Tech.
 - 💞️ I’m looking to collaborate on DSC
 - 📫 How to reach me mohamed19.ramadan@gmail.com
 
